@@ -1,4 +1,9 @@
 # Online-resume
 This is a online resume made with HTML5 and CSS7. This website showcases my academic records,skills,project links and social profile links.
+
 Screenshot of the project
-![2023-08-01 (5)](https://github.com/nehaSamipa8/Portfolio-Website/assets/112778133/d02ceed5-7911-407a-8fb8-0a786b77b168)
+
+
+![2023-08-10 (12)](https://github.com/nehaSamipa8/Online-Resume/assets/112778133/294acb6a-f617-469e-81d5-5557806e36c4)
+
+![2023-08-10 (13)](https://github.com/nehaSamipa8/Online-Resume/assets/112778133/14459017-2c49-43b9-91f8-76fc45e69ef4)
